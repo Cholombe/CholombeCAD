@@ -65,7 +65,7 @@ To be fair about it:
 
 - It's **Friday-afternoon code** in places. Some functions are long. Some naming is inconsistent. I know.
 - **Mobile works** but the UI is built for a mouse.
-- **Extremely large drawings** (thousands of entities) will make the canvas cry. There's no spatial index yet.
+- **Extremely large drawings** (thousands of entities) will make the canvas cry. There's no spatial index yet. (Now there is!)
 
 ---
 
